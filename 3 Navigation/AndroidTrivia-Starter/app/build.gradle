@@ -61,4 +61,7 @@ dependencies {
     def nav_version = "2.2.0"
     implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
     implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
+
+    //For Navigation Drawer / Hamburger Menu
+    implementation "com.google.android.material:material:$supportlibVersion"
 }

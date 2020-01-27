@@ -16,12 +16,20 @@ import com.example.android.navigation.databinding.FragmentTitleBinding
 class TitleFragment : Fragment() {
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        val binding = DataBindingUtil.inflate<FragmentTitleBinding>(inflater, R.layout.fragment_title, container, false)
+        val binding: FragmentTitleBinding = DataBindingUtil.inflate(inflater, R.layout.fragment_title, container, false)
 
         //Play Button Click Listener
         binding.playButton.setOnClickListener {
             //Navigate to the Game Fragment
             it.findNavController().navigate(R.id.action_titleFragment_to_gameFragment)
+        }
+
+        binding.aboutButton.setOnClickListener {
+            it.findNavController().navigate(R.id.action_titleFragment_to_aboutFragment)
+        }
+
+        binding.rulesButton.setOnClickListener {
+            it.findNavController().navigate(R.id.action_titleFragment_to_rulesFragment)
         }
 
         //Enabling Options Menu
