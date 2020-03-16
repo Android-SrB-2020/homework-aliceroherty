@@ -1,123 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d40f02c8-65b2-48de-9771-f8b8eed824e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/caches/build_file_checksums.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__android_arch_navigation_navigation_common_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__android_arch_navigation_navigation_common_ktx_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__android_arch_navigation_navigation_fragment_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__android_arch_navigation_navigation_fragment_ktx_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__android_arch_navigation_navigation_runtime_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__android_arch_navigation_navigation_runtime_ktx_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__android_arch_navigation_navigation_ui_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__android_arch_navigation_navigation_ui_ktx_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_core_core_ktx_1_0_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_databinding_databinding_adapters_3_4_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_databinding_databinding_common_3_4_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_databinding_databinding_runtime_3_4_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_ktx_2_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_ktx_2_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__com_jakewharton_timber_timber_4_7_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__org_jetbrains_annotations_16_0_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_android_extensions_runtime_1_3_61_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_61_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_61_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_61_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_3_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_1_3_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/ic_guess_it-web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/java/com/example/android/guesstheword/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/java/com/example/android/guesstheword/screens/game/GameFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/java/com/example/android/guesstheword/screens/game/GameViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreViewModelFactory.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/java/com/example/android/guesstheword/screens/title/TitleFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/anim/slide_in_right.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/anim/slide_out_left.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/layout/game_fragment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/layout/main_activity.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/layout/score_fragment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/layout/title_fragment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-anydpi-v26/ic_guess_it.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-anydpi-v26/ic_guess_it_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-hdpi/ic_guess_it.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-hdpi/ic_guess_it_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-mdpi/ic_guess_it.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-mdpi/ic_guess_it_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-xhdpi/ic_guess_it.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-xhdpi/ic_guess_it_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-xxhdpi/ic_guess_it.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-xxhdpi/ic_guess_it_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-xxxhdpi/ic_guess_it.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/mipmap-xxxhdpi/ic_guess_it_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/navigation/main_navigation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5-ViewModel-and-LiveData/5.1/GuessTheWord-Starter/settings.gradle" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/navEditor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_sleep_tracker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_sleep_tracker.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -148,37 +43,45 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="16" column="95" selection-start-line="16" selection-start-column="95" selection-end-line="16" selection-end-column="95" />
-              <folding>
-                <element signature="e#0#615#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabaseDao.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="e#675#817#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="449">
+              <caret line="56" column="61" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/android/trackmysleepquality/SleepDatabaseTest.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModel.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
+            <state relative-caret-position="503">
+              <caret line="87" column="28" selection-start-line="87" selection-start-column="28" selection-end-line="87" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_sleep_tracker.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="102" column="68" selection-start-line="102" selection-start-column="68" selection-end-line="102" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13">
+              <caret line="72" column="2" lean-forward="true" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
               <folding>
                 <element signature="e#0#615#0" expanded="true" />
-                <element signature="e#666#1177#0" expanded="true" />
+                <element signature="e#2873#2908#1" expanded="true" />
+                <element signature="e#2981#3021#1" expanded="true" />
+                <element signature="e#3176#3214#1" expanded="true" />
+                <element signature="e#3315#3352#1" expanded="true" />
+                <element signature="e#3470#3511#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,91 +100,10 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabaseDao.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabase.kt" />
         <option value="$PROJECT_DIR$/app/src/androidTest/java/com/example/android/trackmysleepquality/SleepDatabaseTest.kt" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_navigation_navigation_common_1_0_0_alpha08_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_navigation_navigation_common_ktx_1_0_0_alpha08_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_navigation_navigation_fragment_1_0_0_alpha08_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_navigation_navigation_fragment_ktx_1_0_0_alpha08_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_navigation_navigation_runtime_1_0_0_alpha08_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_navigation_navigation_runtime_ktx_1_0_0_alpha08_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_navigation_navigation_ui_1_0_0_alpha08_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_navigation_navigation_ui_ktx_1_0_0_alpha08_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_0_alpha3_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_0_alpha3_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_0_1_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_databinding_adapters_3_3_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_databinding_common_3_3_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_databinding_runtime_3_3_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_room_room_common_2_0_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_room_room_runtime_2_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_2_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_framework_2_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_1_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_1_1_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_1_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_android_extensions_runtime_1_3_61_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_61_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_61_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_61_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_0_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_1_0_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_common_1_0_0_jar.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_sleep_tracker.xml" />
       </list>
     </option>
   </component>
@@ -299,32 +121,12 @@
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TrackMySleepQuality-Starter" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="TrackMySleepQuality-Starter" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="TrackMySleepQuality-Starter" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="trackmysleepquality" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
@@ -342,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android Instrumented Tests.SleepDatabaseTest">
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -475,12 +277,18 @@
     <history-entry file="SleepDatabaseTest - 2020.03.16 at 00h 22m 43s.xml">
       <configuration name="SleepDatabaseTest" configurationId="AndroidTestRunConfigurationType" />
     </history-entry>
+    <history-entry file="SleepDatabaseTest - 2020.03.16 at 00h 34m 51s.xml">
+      <configuration name="SleepDatabaseTest" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="SleepDatabaseTest - 2020.03.16 at 00h 34m 57s.xml">
+      <configuration name="SleepDatabaseTest" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="763" y="0" width="779" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957265" visible="true" weight="0.3310153" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957265" weight="0.3310153" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -489,7 +297,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" sideWeight="0.50427353" side_tool="true" weight="0.3310153" />
       <window_info id="Captures" order="8" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Run" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" weight="0.3295129" />
       <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="TODO" />
@@ -503,19 +311,10 @@
       <window_info anchor="right" id="Gradle" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Preview" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" column="95" selection-start-line="16" selection-start-column="95" selection-end-line="16" selection-end-column="95" />
-          <folding>
-            <element signature="e#0#615#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepNight.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
@@ -538,16 +337,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/android/trackmysleepquality/SleepDatabaseTest.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#615#0" expanded="true" />
-            <element signature="e#666#1177#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-168" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml">
+      <provider selected="true" editor-type-id="nav-designer" />
+      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabaseDao.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -556,6 +354,76 @@
           <folding>
             <element signature="e#675#817#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="95" selection-start-line="16" selection-start-column="95" selection-end-line="16" selection-end-column="95" />
+          <folding>
+            <element signature="e#0#615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/android/trackmysleepquality/SleepDatabaseTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#615#0" expanded="true" />
+            <element signature="e#666#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModelFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="56" column="61" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-287" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="72" column="2" lean-forward="true" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#615#0" expanded="true" />
+            <element signature="e#2873#2908#1" expanded="true" />
+            <element signature="e#2981#3021#1" expanded="true" />
+            <element signature="e#3176#3214#1" expanded="true" />
+            <element signature="e#3315#3352#1" expanded="true" />
+            <element signature="e#3470#3511#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="87" column="28" selection-start-line="87" selection-start-column="28" selection-end-line="87" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_sleep_tracker.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="102" column="68" selection-start-line="102" selection-start-column="68" selection-end-line="102" selection-end-column="68" />
         </state>
       </provider>
     </entry>
